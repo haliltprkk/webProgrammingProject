@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="webFinal:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="990c76bf-4c0e-4969-82f4-21d5331f115e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/web/user-form.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1bJ2whArJFl9aD1KQ1enPU2PthS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="usermanagement.dao" />
+      <recent name="usermanagement.web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/web/css" />
+      <recent name="$PROJECT_DIR$/src/usermanagement" />
+      <recent name="$PROJECT_DIR$/web/WEB-INF/lib" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="®" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8181/" />
+      <deployment>
+        <artifact name="webFinal:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_31_webFinal" />
+        <option name="HTTP_PORT" value="8181" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60186" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="webFinal:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.19524068" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="990c76bf-4c0e-4969-82f4-21d5331f115e" name="Default Changelist" comment="" />
+      <created>1588336115312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588336115312</updated>
+      <workItem from="1588336119489" duration="8423000" />
+      <workItem from="1588665911653" duration="701000" />
+      <workItem from="1589109335003" duration="5419000" />
+      <workItem from="1589126149980" duration="11638000" />
+      <workItem from="1589267699531" duration="608000" />
+      <workItem from="1589567676073" duration="5730000" />
+      <workItem from="1589716229734" duration="14735000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="205" key="#Project_Structure" timestamp="1588338826041">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="205" key="#Project_Structure/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588338826041" />
+    <state x="560" y="205" key="#SQL_Dialects" timestamp="1588355002278">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="205" key="#SQL_Dialects/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588355002278" />
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589144165941">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589144165941" />
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588356855178" />
+    <state x="711" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1589571168348">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1588349911550" />
+    <state x="711" y="169" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589571168348" />
+    <state x="711" y="169" key="#com.intellij.ide.util.MemberChooser/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588355158795" />
+    <state x="698" y="323" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1589117740422">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="323" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589117740422" />
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589570772467">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589570772467" />
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588355855730" />
+    <state width="1487" height="264" key="GridCell.Tab.0.bottom" timestamp="1589739800150">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1487" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589732945452" />
+    <state width="1487" height="232" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.1792.1013@0.23.1920.1057" timestamp="1589117650570" />
+    <state width="1487" height="264" key="GridCell.Tab.0.bottom/0.23.1920.973/1920.23.1792.1097@0.23.1920.973" timestamp="1589739800150" />
+    <state width="1487" height="625" key="GridCell.Tab.0.bottom/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588357634827" />
+    <state width="1487" height="268" key="GridCell.Tab.0.bottom/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1588401134191" />
+    <state width="1487" height="264" key="GridCell.Tab.0.center" timestamp="1589739800148">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1487" height="264" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589732945450" />
+    <state width="1487" height="232" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.1792.1013@0.23.1920.1057" timestamp="1589117650569" />
+    <state width="1487" height="264" key="GridCell.Tab.0.center/0.23.1920.973/1920.23.1792.1097@0.23.1920.973" timestamp="1589739800148" />
+    <state width="1487" height="625" key="GridCell.Tab.0.center/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588357634825" />
+    <state width="1487" height="268" key="GridCell.Tab.0.center/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1588401134189" />
+    <state width="1487" height="264" key="GridCell.Tab.0.left" timestamp="1589739800147">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1487" height="264" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589732945449" />
+    <state width="1487" height="232" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.1792.1013@0.23.1920.1057" timestamp="1589117650568" />
+    <state width="1487" height="264" key="GridCell.Tab.0.left/0.23.1920.973/1920.23.1792.1097@0.23.1920.973" timestamp="1589739800147" />
+    <state width="1487" height="625" key="GridCell.Tab.0.left/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588357634824" />
+    <state width="1487" height="268" key="GridCell.Tab.0.left/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1588401134188" />
+    <state width="1487" height="264" key="GridCell.Tab.0.right" timestamp="1589739800149">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1487" height="264" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589732945451" />
+    <state width="1487" height="232" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.1792.1013@0.23.1920.1057" timestamp="1589117650569" />
+    <state width="1487" height="264" key="GridCell.Tab.0.right/0.23.1920.973/1920.23.1792.1097@0.23.1920.973" timestamp="1589739800149" />
+    <state width="1487" height="625" key="GridCell.Tab.0.right/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588357634826" />
+    <state width="1487" height="268" key="GridCell.Tab.0.right/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1588401134190" />
+    <state width="1487" height="264" key="GridCell.Tab.1.bottom" timestamp="1589739800089">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1487" height="264" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589732945395" />
+    <state width="1487" height="232" key="GridCell.Tab.1.bottom/0.23.1920.1057/1920.23.1792.1013@0.23.1920.1057" timestamp="1589117650515" />
+    <state width="1487" height="264" key="GridCell.Tab.1.bottom/0.23.1920.973/1920.23.1792.1097@0.23.1920.973" timestamp="1589739800089" />
+    <state width="1487" height="625" key="GridCell.Tab.1.bottom/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588357634744" />
+    <state width="1487" height="268" key="GridCell.Tab.1.bottom/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1588401134194" />
+    <state width="1487" height="264" key="GridCell.Tab.1.center" timestamp="1589739800087">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1487" height="264" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589732945394" />
+    <state width="1487" height="232" key="GridCell.Tab.1.center/0.23.1920.1057/1920.23.1792.1013@0.23.1920.1057" timestamp="1589117650514" />
+    <state width="1487" height="264" key="GridCell.Tab.1.center/0.23.1920.973/1920.23.1792.1097@0.23.1920.973" timestamp="1589739800087" />
+    <state width="1487" height="625" key="GridCell.Tab.1.center/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588357634743" />
+    <state width="1487" height="268" key="GridCell.Tab.1.center/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1588401134192" />
+    <state width="1487" height="264" key="GridCell.Tab.1.left" timestamp="1589739800087">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1487" height="264" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589732945392" />
+    <state width="1487" height="232" key="GridCell.Tab.1.left/0.23.1920.1057/1920.23.1792.1013@0.23.1920.1057" timestamp="1589117650513" />
+    <state width="1487" height="264" key="GridCell.Tab.1.left/0.23.1920.973/1920.23.1792.1097@0.23.1920.973" timestamp="1589739800087" />
+    <state width="1487" height="625" key="GridCell.Tab.1.left/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588357634742" />
+    <state width="1487" height="268" key="GridCell.Tab.1.left/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1588401134192" />
+    <state width="1487" height="264" key="GridCell.Tab.1.right" timestamp="1589739800088">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1487" height="264" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589732945394" />
+    <state width="1487" height="232" key="GridCell.Tab.1.right/0.23.1920.1057/1920.23.1792.1013@0.23.1920.1057" timestamp="1589117650514" />
+    <state width="1487" height="264" key="GridCell.Tab.1.right/0.23.1920.973/1920.23.1792.1097@0.23.1920.973" timestamp="1589739800088" />
+    <state width="1487" height="625" key="GridCell.Tab.1.right/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588357634743" />
+    <state width="1487" height="268" key="GridCell.Tab.1.right/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1588401134193" />
+    <state width="1487" height="264" key="GridCell.Tab.2.bottom" timestamp="1589739800091">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1487" height="264" key="GridCell.Tab.2.bottom/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589732945398" />
+    <state width="1487" height="232" key="GridCell.Tab.2.bottom/0.23.1920.1057/1920.23.1792.1013@0.23.1920.1057" timestamp="1589117650517" />
+    <state width="1487" height="264" key="GridCell.Tab.2.bottom/0.23.1920.973/1920.23.1792.1097@0.23.1920.973" timestamp="1589739800091" />
+    <state width="1487" height="625" key="GridCell.Tab.2.bottom/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588357634747" />
+    <state width="1487" height="268" key="GridCell.Tab.2.bottom/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1588401134197" />
+    <state width="1487" height="264" key="GridCell.Tab.2.center" timestamp="1589739800090">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1487" height="264" key="GridCell.Tab.2.center/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589732945397" />
+    <state width="1487" height="232" key="GridCell.Tab.2.center/0.23.1920.1057/1920.23.1792.1013@0.23.1920.1057" timestamp="1589117650516" />
+    <state width="1487" height="264" key="GridCell.Tab.2.center/0.23.1920.973/1920.23.1792.1097@0.23.1920.973" timestamp="1589739800090" />
+    <state width="1487" height="625" key="GridCell.Tab.2.center/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588357634745" />
+    <state width="1487" height="268" key="GridCell.Tab.2.center/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1588401134196" />
+    <state width="1487" height="264" key="GridCell.Tab.2.left" timestamp="1589739800089">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1487" height="264" key="GridCell.Tab.2.left/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589732945396" />
+    <state width="1487" height="232" key="GridCell.Tab.2.left/0.23.1920.1057/1920.23.1792.1013@0.23.1920.1057" timestamp="1589117650515" />
+    <state width="1487" height="264" key="GridCell.Tab.2.left/0.23.1920.973/1920.23.1792.1097@0.23.1920.973" timestamp="1589739800089" />
+    <state width="1487" height="625" key="GridCell.Tab.2.left/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588357634745" />
+    <state width="1487" height="268" key="GridCell.Tab.2.left/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1588401134195" />
+    <state width="1487" height="264" key="GridCell.Tab.2.right" timestamp="1589739800090">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state width="1487" height="264" key="GridCell.Tab.2.right/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589732945397" />
+    <state width="1487" height="232" key="GridCell.Tab.2.right/0.23.1920.1057/1920.23.1792.1013@0.23.1920.1057" timestamp="1589117650517" />
+    <state width="1487" height="264" key="GridCell.Tab.2.right/0.23.1920.973/1920.23.1792.1097@0.23.1920.973" timestamp="1589739800090" />
+    <state width="1487" height="625" key="GridCell.Tab.2.right/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588357634746" />
+    <state width="1487" height="268" key="GridCell.Tab.2.right/1920.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1588401134197" />
+    <state x="653" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1589716238192">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="653" y="358" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589716238192" />
+    <state x="653" y="372" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1589267793150" />
+    <state x="511" y="283" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1589726895532">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="511" y="283" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589726895532" />
+    <state x="640" y="297" width="639" height="486" key="find.popup" timestamp="1589741483619">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="297" width="639" height="486" key="find.popup/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589741483619" />
+    <state x="273" y="145" key="new project wizard" timestamp="1589268020255">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="273" y="145" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1589268020255" />
+    <state x="625" y="255" key="run.anything.popup" timestamp="1588341005720">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="255" key="run.anything.popup/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588341005720" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1589725556496">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/1920.0.1792.1120@0.0.1920.1080" timestamp="1589725556496" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1588356857490" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/dao/UserDAO.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/dao/UserDAO.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/dao/UserDAO.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RegisterServlet.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RegisterServlet.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RegisterServlet.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RegisterServlet.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RegisterServlet.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RegisterServlet.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RegisterServlet.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RegisterServlet.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/dao/UserDAO.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/dao/UserDAO.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/web/UserServlet.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/web/UserServlet.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/web/UserServlet.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/web/UserServlet.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/web/UserServlet.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/web/UserServlet.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/web/UserServlet.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/web/UserServlet.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/web/UserServlet.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/web/UserServlet.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/web/UserServlet.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/user-form.jsp</url>
+          <line>24</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/user-form.jsp</url>
+          <line>23</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>44</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>45</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>46</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>47</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>39</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>40</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>48</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>50</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>49</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/cart.jsp</url>
+          <line>36</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/cart.jsp</url>
+          <line>41</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>139</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>151</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>153</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>156</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>155</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/orders.jsp</url>
+          <line>46</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/dao/ProductDAO.java</url>
+          <line>164</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/dao/ProductDAO.java</url>
+          <line>183</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/dao/ProductDAO.java</url>
+          <line>181</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/dao/ProductDAO.java</url>
+          <line>188</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/dao/ProductDAO.java</url>
+          <line>186</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/dao/ProductDAO.java</url>
+          <line>169</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usermanagement/dao/ProductDAO.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/NavigatorServlet.java</url>
+          <line>86</line>
+          <properties class="NavigatorServlet" method="checkUser">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

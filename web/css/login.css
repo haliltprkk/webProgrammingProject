@@ -1,0 +1,54 @@
+html {
+    min-height: 100%;
+    position: relative;
+}
+
+body {
+    background: #f4f4f4;
+    margin-bottom: 100px;
+}
+
+#header {
+    background-color: #333333;
+    color: #ffffff;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+.form-group.required .control-label:after,.col.required .control-label:after,.toggle-group.required:after{
+    content: "*";
+    color: red;
+}
+
+#footer {
+    background: #333333;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 30px;
+    padding: 30px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+}
+
+#footer p {
+    margin-bottom: 0 !important;
+}
+
+.container login {
+    width: 100%;
+    height: 100%;
+    position: relative;
+
+
+}
+
+.forms {
+    margin: 0 auto;
+    width: 30%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}

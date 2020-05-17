@@ -1,0 +1,13 @@
+
+button{
+    font-size: 22px; !important;
+    font-weight: bold; !important;
+    color: aquamarine;
+}
+a{
+    color: white;
+}
+.buttons{
+    margin-top: 300px;
+    text-align: center;
+}
